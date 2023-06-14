@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(53, 185, 174, 0.829);
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#title { 
+    text-align: center;
+    font-size: 10vh;
+}
+img {  
+    display: center;
+    width: 100%;
+}
+div#data { 
+    font-family: Georgia;
+    padding: 20px 20px;
+    margin: 11px;
+    margin-top: 50px; 
+}
+body h1{
+    font-size:80px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.height { 
+    font-size: 35px;
+    color: black;
+    
+}
+body h3{
+    text-align: center;
+    font-size: 50px;
+}
+body h4{
+    margin-bottom: 50px;
+}
